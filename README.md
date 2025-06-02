@@ -8,6 +8,7 @@ This project was created for learning purposes to explore how document-based que
 
 [https://faq-chatbot-lc.streamlit.app](https://faq-chatbot-lc.streamlit.app)
 
+> **Note:** The deployed demo is not fully functional because it requires additional database setup. Some features may not work as expected.
 ## Setup
 
 1. Clone the repository or copy the script.
