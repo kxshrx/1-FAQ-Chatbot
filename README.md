@@ -32,3 +32,6 @@ This project was created for learning purposes to explore how document-based que
 - Chunks are embedded and stored in a temporary vector database
 - When you ask a question, similar chunks are retrieved
 - The model generates an answer based on the context
+
+
+<img width="1710" alt="faqragchat" src="https://github.com/user-attachments/assets/c8e516c0-353a-444f-89d0-4cbcfedd39a0" />
